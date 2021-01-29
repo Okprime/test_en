@@ -102,7 +102,7 @@ const objectArray = [
        "Entry_type": "Homogenous"
     },
     "RISK PROFILE": "Low Risk"
-  },
+  }
 ]
 
 
