@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 
-const port =  8080;
+const port = process.env.PORT || 9944;
 const appName = 'Smalls';
 
 
