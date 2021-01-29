@@ -31,7 +31,7 @@ const objectArray = [
       "Entry": "19 Unique Entries",
        "Entry_type": "Homogenous"
     },
-    "RISK PROFILE": "Low Risk"
+    "RISK_PROFILE": "Low Risk"
   },
   {
     "NAME": "Darrell Steward",
@@ -41,7 +41,7 @@ const objectArray = [
       "Entry": "10 Unique Entries",
        "Entry_type": "Homogenous"
     },
-    "RISK PROFILE": "Mid Risk"
+    "RISK_PROFILE": "Mid Risk"
   },
   {
     "NAME": "Cody FIsher",
@@ -51,7 +51,7 @@ const objectArray = [
       "Entry": "8 Unique Entries",
        "Entry_type": "Homogenous"
     },
-    "RISK PROFILE": "Mid Risk"
+    "RISK_PROFILE": "Mid Risk"
   },
   {
     "NAME": "Bessie Cooper",
@@ -61,7 +61,7 @@ const objectArray = [
       "Entry": "12 Unique Entries",
        "Entry_type": "Heterogenous"
     },
-    "RISK PROFILE": "High Risk"
+    "RISK_PROFILE": "High Risk"
   },
   {
     "NAME": "Annette Black",
@@ -71,7 +71,7 @@ const objectArray = [
       "Entry": "13 Unique Entries",
        "Entry_type": "Heterogenous"
     },
-    "RISK PROFILE": "Low Risk"
+    "RISK_PROFILE": "Low Risk"
   },
   {
     "NAME": "Jenny Wilson",
@@ -81,7 +81,7 @@ const objectArray = [
       "Entry": "18 Unique Entries",
        "Entry_type": "Homogenous"
     },
-    "RISK PROFILE": "High Risk"
+    "RISK_PROFILE": "High Risk"
   },
   {
     "NAME": "Darlene Robertson",
@@ -91,7 +91,7 @@ const objectArray = [
       "Entry": "6 Unique Entries",
        "Entry_type": "Homogenous"
     },
-    "RISK PROFILE": "Mid Risk"
+    "RISK_PROFILE": "Mid Risk"
   },
   {
     "NAME": "Ralph Edwards",
@@ -101,7 +101,7 @@ const objectArray = [
       "Entry": "14 Unique Entries",
        "Entry_type": "Homogenous"
     },
-    "RISK PROFILE": "Low Risk"
+    "RISK_PROFILE": "Low Risk"
   }
 ]
 
